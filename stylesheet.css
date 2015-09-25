@@ -1,0 +1,40 @@
+selector {
+	property:value;
+}
+title {
+	text-align: center;
+	text-decoration: underline;
+}
+body {
+	background-image: url("http://designbump.com/wp-content/uploads/2014/06/paper-texture-backgrounds-025.jpg");
+}
+
+h1 {
+	text-align: center;
+	font-size: 48px;
+	font-family: Verdana;
+}
+h2 {
+
+	text-align: right;
+	font-size: 16px;
+}
+h3 {
+	color:green;
+	font-size: 24px;
+	border-bottom: solid;
+	border-color: black;
+	border-width: 2px;
+
+}
+p {
+	font-size:14px;
+}
+li {
+	font-size: 16px;
+
+}
+img {
+	float: right;
+
+}
